@@ -15,3 +15,15 @@ Gorilla tag tools to make gorilla tag mods!
 4. SteamVR
 5. GORRILA TAG DUH
 # How to use
+
+
+# Credit
+Credit goes to the gorrila tag discord, and their great community.
+Huge credit also goes to the people who made these tools, I will
+be linking the downloads page to their stuff below:
+
+https://github.com/legoandmars/GorillaTagMapProject/
+https://github.com/DeadlyKitten/MonkeModManager
+https://github.com/BepInEx/BepInEx/releases
+
+Thank you so much for making gorrila tag a much greater experience. C:
