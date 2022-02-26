@@ -12,4 +12,6 @@ Gorilla tag tools to make gorilla tag mods!
 1. Node.js (https://nodejs.org/en/)
 2. Unity (https://unity.com/)
 3. Basic knowledge of modding/ C# coding (tutorialspoint.com/csharp/index.htm)
+4. SteamVR
+5. GORRILA TAG DUH
 # How to use
