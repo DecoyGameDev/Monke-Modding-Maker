@@ -9,7 +9,7 @@ Gorilla tag tools to make gorilla tag mods!
 
 
 # Requirments
-1. Node.js
-2. Unity
-3. Basic knowledge of modding/ C# coding
+1. Node.js (https://nodejs.org/en/)
+2. Unity (https://unity.com/)
+3. Basic knowledge of modding/ C# coding (tutorialspoint.com/csharp/index.htm)
 # How to use
